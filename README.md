@@ -61,4 +61,4 @@ streamlit run app.py
 
 ---
 
-Built by [Rishab Sati](https://github.com/rishabsati) · ASU Computer Science
+Built by [Rishab Sati](https://github.com/rishabsati) 
